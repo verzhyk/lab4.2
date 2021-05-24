@@ -1,0 +1,14 @@
+C:\Users\goss_rivero\source\repos\newLaba3Vlad\newLaba3Vlad\bin\Debug\newLaba3Vlad.exe.config
+C:\Users\goss_rivero\source\repos\newLaba3Vlad\newLaba3Vlad\bin\Debug\newLaba3Vlad.exe
+C:\Users\goss_rivero\source\repos\newLaba3Vlad\newLaba3Vlad\bin\Debug\newLaba3Vlad.pdb
+C:\Users\goss_rivero\source\repos\newLaba3Vlad\newLaba3Vlad\obj\Debug\newLaba3Vlad.csprojAssemblyReference.cache
+C:\Users\goss_rivero\source\repos\newLaba3Vlad\newLaba3Vlad\obj\Debug\newLaba3Vlad.csproj.CoreCompileInputs.cache
+C:\Users\goss_rivero\source\repos\newLaba3Vlad\newLaba3Vlad\obj\Debug\newLaba3Vlad.exe
+C:\Users\goss_rivero\source\repos\newLaba3Vlad\newLaba3Vlad\obj\Debug\newLaba3Vlad.pdb
+C:\Users\veroz\OneDrive\Робочий стіл\newLaba3Vlad\newLaba3Vlad\bin\Debug\newLaba3Vlad.exe.config
+C:\Users\veroz\OneDrive\Робочий стіл\newLaba3Vlad\newLaba3Vlad\bin\Debug\newLaba3Vlad.exe
+C:\Users\veroz\OneDrive\Робочий стіл\newLaba3Vlad\newLaba3Vlad\bin\Debug\newLaba3Vlad.pdb
+C:\Users\veroz\OneDrive\Робочий стіл\newLaba3Vlad\newLaba3Vlad\obj\Debug\newLaba3Vlad.csprojAssemblyReference.cache
+C:\Users\veroz\OneDrive\Робочий стіл\newLaba3Vlad\newLaba3Vlad\obj\Debug\newLaba3Vlad.csproj.CoreCompileInputs.cache
+C:\Users\veroz\OneDrive\Робочий стіл\newLaba3Vlad\newLaba3Vlad\obj\Debug\newLaba3Vlad.exe
+C:\Users\veroz\OneDrive\Робочий стіл\newLaba3Vlad\newLaba3Vlad\obj\Debug\newLaba3Vlad.pdb
